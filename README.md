@@ -3,7 +3,7 @@
 ## Lets get started 
 
 ..ruby
-"This is another linguistic code" 
+puts "This is another linguistic code" 
 ruby is precious
 
-## [Another doc is at](https://gist.github.com/vineerahul/de6d23e7916bb4cdbc192f562c5743a9).
+## writing again, as you can see another doc here at this link (https://gist.github.com/vineerahul/de6d23e7916bb4cdbc192f562c5743a9).
